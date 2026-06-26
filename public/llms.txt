@@ -7,25 +7,25 @@
 ## Pages
 
 ### Home
-https://example.com
+https://five-below.zappy5.app
 Discover the hottest toys, games, and lifestyle gear priced at just $5, $10, and $25! Find a Five Below near you or shop the newest budget-friendly trends now.
 
 ### Thank You - Submission Received
-https://example.com/thank-you
+https://five-below.zappy5.app/thank-you
 Thank you for contacting our driveline retail merchandising team. Your message has been successfully received.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://five-below.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://five-below.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://five-below.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 2094 Glenwood Shopping Plaza, Oneida, NY 13421, Oneida , New York, 13421, USA
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://five-below.zappy5.app
+- Endpoint: https://five-below.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -66,6 +66,6 @@ Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://five-below.zappy5.app/sitemap.xml
+- Robots: https://five-below.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://five-below.zappy5.app/llms-full.txt
