@@ -512,7 +512,7 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 - [business_phone]
 
-- [business_address]
+- 2094 Glenwood Shopping Plaza, Oneida, NY 13421, Oneida , New York, 13421, USA
 
 
 
@@ -522,13 +522,9 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -731,7 +727,7 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Phone: [business_phone]
 
-- Address: [business_address]
+- Address: 2094 Glenwood Shopping Plaza, Oneida, NY 13421, New York, USA
 
 
 
@@ -784,7 +780,7 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 - [business_phone]
 
-- [business_address]
+- 2094 Glenwood Shopping Plaza, Oneida, NY 13421, Oneida , New York, 13421, USA
 
 
 
@@ -794,13 +790,9 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1062,7 +1054,7 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 - [business_phone]
 
-- [business_address]
+- 2094 Glenwood Shopping Plaza, Oneida, NY 13421, Oneida , New York, 13421, USA
 
 
 
@@ -1072,13 +1064,9 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1312,7 +1300,7 @@ For questions or clarifications regarding the terms of use:
 
 - Phone: [business_phone]
 
-- Address: [business_address]
+- Address: 2094 Glenwood Shopping Plaza, Oneida, NY 13421, New York, USA
 
 
 
@@ -1362,7 +1350,7 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 - [business_phone]
 
-- [business_address]
+- 2094 Glenwood Shopping Plaza, Oneida, NY 13421, Oneida , New York, 13421, USA
 
 
 
@@ -1372,13 +1360,9 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
@@ -1571,7 +1555,7 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 - [business_phone]
 
-- [business_address]
+- 2094 Glenwood Shopping Plaza, Oneida, NY 13421, Oneida , New York, 13421, USA
 
 
 
@@ -1581,13 +1565,9 @@ Your neighborhood destination for extreme value finds. From tech to tees, beauty
 
 #### Opening Hours
 
+- Mon–Fri 09:00–17:00
 
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
-
-- Sun Closed
-
+- Sat–Sun Closed
 
 
 
