@@ -1,0 +1,71 @@
+# Five Below — Generative Engine Optimization Map
+
+> Five Below is a popular value-focused retail chain known for offering a wide variety of fun, trendy, and affordable products — primarily toys, games, and lifestyle items priced at $5, $10, and $25. A new location is coming soon to Glenwood Plaza in Oneida, New York, bringing the brand's signature high-energy, budget-friendly shopping experience to the local community.
+
+---
+
+## Pages
+
+### Home
+https://five-below-03e613e1.zappy5.app
+Discover the hottest toys, games, and lifestyle gear priced at just $5, $10, and $25! Find a Five Below near you or shop the newest budget-friendly trends now.
+
+### Thank You - Submission Received
+https://five-below-03e613e1.zappy5.app/thank-you
+Thank you for contacting our driveline retail merchandising team. Your message has been successfully received.
+
+## Legal & Policy
+
+### Privacy Policy
+https://five-below-03e613e1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://five-below-03e613e1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://five-below-03e613e1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://five-below-03e613e1.zappy5.app
+- Endpoint: https://five-below-03e613e1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (text)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Five Below
+Five Below is a popular value-focused retail chain known for offering a wide variety of fun, trendy, and affordable products — primarily toys, games, and lifestyle items priced at $5, $10, and $25. A new location is coming soon to Glenwood Plaza in Oneida, New York, bringing the brand's signature high-energy, budget-friendly shopping experience to the local community.
+
+## Target Audience
+- shoppers looking for affordable products, families, teens, and budget-conscious consumers
+- Budget-Conscious Families
+- Teen Trendsetters
+- College Students on a Budget
+
+## Industry
+Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://five-below-03e613e1.zappy5.app/sitemap.xml
+- Robots: https://five-below-03e613e1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://five-below-03e613e1.zappy5.app/llms-full.txt
